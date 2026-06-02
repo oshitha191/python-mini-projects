@@ -5,6 +5,10 @@ A structured portfolio  of lightweight python implementations which showcase cor
 ## Project Architecture
 
 This repository serves as a centralized hub for bite-sized utilities, each focusing on specific programmatic concepts. As I build more scripts, they will be listed right here
+| # | Project Directory | Core Concepts Covered | Complexity |
+|---|---|---|---|
+| 1 | [guessing_game.py](./01_guessing_game/guessing_game.py) | Control Flow (while, if/elif/else), Type Casting, Randomization | Beginner |
+| 2 | [password_generator.py](./02_password_generator/password_generator.py) | String Manipulation, Iterative Loops, Data Randomization | Beginner |
 
 
 
@@ -13,5 +17,11 @@ This repository serves as a centralized hub for bite-sized utilities, each focus
 
 # 1. Interactive Number Guessing Game
 A terminal-based logic execution game that challenges the user to find a dynamically generated pseudo-random integer.
-## Technical Highlights:
--Implements an infinte evaluation loop ,utilizes robust type casting and integrates conditional branch checking to dynamically calculate relative positional feedback.
+
+# 2. Automated Password Generator
+A script that dynamically builds  secure, randomized passwords based on specific user-defined lengths.
+
+   
+## Execution:
+  ```bash
+  python password_generator.py
