@@ -11,7 +11,7 @@ This repository serves as a centralized hub for bite-sized utilities, each focus
 
 ##  Project Breakdown
 
-## 1. Interactive Number Guessing Game
+# 1. Interactive Number Guessing Game
 A terminal-based logic execution game that challenges the user to find a dynamically generated pseudo-random integer.
-# Technical Highlights:
+## Technical Highlights:
 -Implements an infinte evaluation loop ,utilizes robust type casting and integrates conditional branch checking to dynamically calculate relative positional feedback.
